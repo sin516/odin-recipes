@@ -1,0 +1,1 @@
+A simple recipes page for The Odin Project foundations course.
